@@ -1,0 +1,15 @@
+{
+  "repository": "module-maintenance-commercial-nuxt",
+  "capabilityKey": "liberusoftware/module-maintenance-commercial",
+  "presentation": "nuxt-vue",
+  "package": "@liberusoftware/module-maintenance-commercial-nuxt",
+  "foundation": "module-boilerplate-nuxt",
+  "foundationCommit": "79158f1285e465decdccea7fe7c80bf652abd114",
+  "canonicalPlan": "projects/maintenance/nextjs/commercial.md",
+  "presentationPlan": "projects/maintenance/nuxt/commercial.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "maintenance"
+  ]
+}
